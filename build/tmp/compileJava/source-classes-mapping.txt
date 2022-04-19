@@ -1,0 +1,16 @@
+compositepattern/ProductComponent.java
+ compositepattern.ProductComponent
+compositepattern/ProductComposite.java
+ compositepattern.ProductComposite
+compositepattern/ProductLeaf.java
+ compositepattern.ProductLeaf
+compositepattern/OrderClient.java
+ compositepattern.OrderClient
+examplemenu/MenuComponent.java
+ examplemenu.MenuComponent
+examplemenu/Menu.java
+ examplemenu.Menu
+examplemenu/MenuItem.java
+ examplemenu.MenuItem
+examplemenu/CompositeMenuDemo.java
+ examplemenu.CompositeMenuDemo
